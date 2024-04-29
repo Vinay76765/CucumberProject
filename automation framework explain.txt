@@ -1,0 +1,9 @@
+in Src/main/java
+
+--> created packages named BasePage, PageObjects and Utils
+--> in basepage will have a code for base class
+--> in page objects we will have code for each pages
+--> in utils we will have driver initialization code, implicit and explicit waits are initialized inside constructor.
+---> driver setup method is written to setup the driver
+----> getDriver method is written to call the driver
+----> openpage method to open the url
